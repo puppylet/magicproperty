@@ -1,0 +1,137 @@
+.icon{background-image:url(../images/layouts/icons.png); display:inline-block}
+.icon24{height:24px; width:24px}
+.icon18{height:18px; width:18px}
+.icon24.bed 	{background-position:left 	top}
+.icon24.shower 	{background-position:-24px 	top}
+.icon24.m2 		{background-position:-48px 	top}
+.icon24.sofa 	{background-position:-72px 	top}
+.icon24.dollar 	{background-position:-96px 	top}
+.icon24.pin 	{background-position:-120px top}
+.icon24.tenis 	{background-position:-144px top}
+.icon24.wifi 	{background-position:-168px top}
+.icon24.food 	{background-position:-192px top}
+.icon24.flower  {background-position:-216px top}
+.icon24.parking {background-position:-240px top}
+.icon24.washing {background-position:-264px top}
+.icon24.swim 	{background-position:-288px top}
+.icon24.bbq 	{background-position:-312px top}
+.icon24.bminton {background-position:-336px top}
+.icon24.bed.blue 	 {background-position:left 	 -24px}
+.icon24.shower.blue  {background-position:-24px  -24px}
+.icon24.m2.blue 	 {background-position:-48px  -24px}
+.icon24.sofa.blue 	 {background-position:-72px  -24px}
+.icon24.dollar.blue  {background-position:-96px  -24px}
+.icon24.pin.blue 	 {background-position:-120px -24px}
+.icon24.tenis.blue 	 {background-position:-144px -24px}
+.icon24.wifi.blue 	 {background-position:-168px -24px}
+.icon24.food.blue 	 {background-position:-192px -24px}
+.icon24.flower.blue  {background-position:-216px -24px}
+.icon24.parking.blue {background-position:-240px -24px}
+.icon24.washing.blue {background-position:-264px -24px}
+.icon24.swim.blue 	 {background-position:-288px -24px}
+.icon24.bbq.blue 	 {background-position:-312px -24px}
+.icon24.bminton.blue {background-position:-336px -24px}
+.icon24.bed.gray 	 {background-position:left 	 -48px}
+.icon24.shower.gray  {background-position:-24px  -48px}
+.icon24.m2.gray 	 {background-position:-48px  -48px}
+.icon24.sofa.gray 	 {background-position:-72px  -48px}
+.icon24.dollar.gray  {background-position:-96px  -48px}
+.icon24.pin.gray 	 {background-position:-120px -48px}
+.icon24.tenis.gray 	 {background-position:-144px -48px}
+.icon24.wifi.gray 	 {background-position:-168px -48px}
+.icon24.food.gray 	 {background-position:-192px -48px}
+.icon24.flower.gray  {background-position:-216px -48px}
+.icon24.parking.gray {background-position:-240px -48px}
+.icon24.washing.gray {background-position:-264px -48px}
+.icon24.swim.gray 	 {background-position:-288px -48px}
+.icon24.bbq.gray 	 {background-position:-312px -48px}
+.icon24.bminton.gray {background-position:-336px -48px}
+
+.icon18.bed 	{background-position:left 	-72px}
+.icon18.shower 	{background-position:-18px 	-72px}
+.icon18.m2 		{background-position:-36px 	-72px}
+.icon18.sofa 	{background-position:-54px 	-72px}
+.icon18.dollar 	{background-position:-72px 	-72px}
+.icon18.pin 	{background-position:-90px  -72px}
+.icon18.tenis 	{background-position:-108px -72px}
+.icon18.wifi 	{background-position:-126px -72px}
+.icon18.food 	{background-position:-144px -72px}
+.icon18.flower  {background-position:-162px -72px}
+.icon18.parking {background-position:-180px -72px}
+.icon18.washing {background-position:-198px -72px}
+.icon18.swim 	{background-position:-216px -72px}
+.icon18.bbq 	{background-position:-234px -72px}
+.icon18.bminton {background-position:-252px -72px}
+.icon18.diamond {background-position:-270px -72px}
+.icon18.clock 	{background-position:-288px -72px}
+.icon18.calendar{background-position:-306px -72px}
+.icon18.note 	{background-position:-324px -72px}
+.icon18.group 	{background-position:-342px -72px}
+.icon18.ladder 	{background-position:-360px -72px}
+.icon18.cart 	{background-position:-378px -72px}
+.icon18.graduate{background-position:-396px -72px}
+.icon18.car 	{background-position:-414px -72px}
+.icon18.list 	{background-position:-432px -72px}
+.icon18.grid 	{background-position:-450px -72px}
+.icon18.pin2 	{background-position:-468px -72px}
+.icon18.phone-o	{background-position:-486px -72px}
+.icon18.zalo 	{background-position:-504px -72px}
+.icon18.phone 	{background-position:-522px -72px}
+.icon18.viber	{background-position:-540px -72px}
+
+.icon18.bed.blue 	 {background-position:left 	 -90px}
+.icon18.shower.blue  {background-position:-18px  -90px}
+.icon18.m2.blue 	 {background-position:-36px  -90px}
+.icon18.sofa.blue 	 {background-position:-54px  -90px}
+.icon18.dollar.blue  {background-position:-72px  -90px}
+.icon18.pin.blue 	 {background-position:-90px  -90px}
+.icon18.tenis.blue 	 {background-position:-108px -90px}
+.icon18.wifi.blue 	 {background-position:-126px -90px}
+.icon18.food.blue 	 {background-position:-144px -90px}
+.icon18.flower.blue  {background-position:-162px -90px}
+.icon18.parking.blue {background-position:-180px -90px}
+.icon18.washing.blue {background-position:-198px -90px}
+.icon18.swim.blue 	 {background-position:-216px -90px}
+.icon18.bbq.blue 	 {background-position:-234px -90px}
+.icon18.bminton.blue {background-position:-252px -90px}
+.icon18.diamond.blue {background-position:-270px -90px}
+.icon18.clock.blue 	 {background-position:-288px -90px}
+.icon18.calendar.blue{background-position:-306px -90px}
+.icon18.note.blue 	 {background-position:-324px -90px}
+.icon18.group.blue 	 {background-position:-342px -90px}
+.icon18.ladder.blue  {background-position:-360px -90px}
+.icon18.cart.blue 	 {background-position:-378px -90px}
+.icon18.graduate.blue{background-position:-396px -90px}
+.icon18.car.blue 	 {background-position:-414px -90px}
+.icon18.list.blue 	 {background-position:-432px -90px}
+.icon18.grid.blue 	 {background-position:-450px -90px}
+.icon18.pin2.blue 	 {background-position:-468px -90px}
+.icon18.account 	 {background-position:-486px -90px}
+
+.icon18.bed.gray 	 {background-position:left 	 -108px}
+.icon18.shower.gray  {background-position:-18px  -108px}
+.icon18.m2.gray 	 {background-position:-36px  -108px}
+.icon18.sofa.gray 	 {background-position:-54px  -108px}
+.icon18.dollar.gray  {background-position:-72px  -108px}
+.icon18.pin.gray 	 {background-position:-90px  -108px}
+.icon18.tenis.gray 	 {background-position:-108px -108px}
+.icon18.wifi.gray 	 {background-position:-126px -108px}
+.icon18.food.gray 	 {background-position:-144px -108px}
+.icon18.flower.gray  {background-position:-162px -108px}
+.icon18.parking.gray {background-position:-180px -108px}
+.icon18.washing.gray {background-position:-198px -108px}
+.icon18.swim.gray 	 {background-position:-216px -108px}
+.icon18.bbq.gray 	 {background-position:-234px -108px}
+.icon18.bminton.gray {background-position:-252px -108px}
+.icon18.diamond.gray {background-position:-270px -108px}
+.icon18.clock.gray 	 {background-position:-288px -108px}
+.icon18.calendar.gray{background-position:-306px -108px}
+.icon18.note.gray 	 {background-position:-324px -108px}
+.icon18.group.gray 	 {background-position:-342px -108px}
+.icon18.ladder.gray  {background-position:-360px -108px}
+.icon18.cart.gray 	 {background-position:-378px -108px}
+.icon18.graduate.gray{background-position:-396px -108px}
+.icon18.car.gray 	 {background-position:-414px -108px}
+.icon18.list.gray 	 {background-position:-432px -108px}
+.icon18.grid.gray 	 {background-position:-450px -108px}
+.icon18.pin2.gray 	 {background-position:-468px -108px}
